@@ -1,20 +1,16 @@
 # Maxime Owaller 👋
 
-Hello! I'm Maxime Owaller, a 4th-year student at the University of Kent pursuing an MSc in Artificial Intelligence 🤖. I also have a background in technology from Epitech 💻, and I'm currently based in Strasbourg 🇫🇷 and Canterbury 🇬🇧.
+Hello! I'm Maxime Owaller, a 4th-year student at the University of Kent pursuing an MSc in Artificial Intelligence 🤖. I am also following the Master course at Epitech 💻, and I'm currently based in Strasbourg 🇫🇷 and Canterbury 🇬🇧.
 
 ## About Me 🧐
 
-I'm passionate about technology and its potential to transform the world for the better 💡. In particular, I'm fascinated by the field of Artificial Intelligence and its applications, from computer vision to natural language processing 🌐.
+I'm passionate about technology and development. In particular, I'm fascinated by the field of Artificial Intelligence and its applications, from computer vision to natural language processing and deep learning 🌐.
 
-I'm always eager to learn more and explore new technologies 🤓, and I'm constantly seeking opportunities to apply my knowledge and skills to real-world problems 👨‍💻.
+I'm always eager to learn more and explore new technologies 🤓, and I'm constantly seeking opportunities to apply my knowledge and skills to solve problems 👨‍💻.
 
 ## Projects 🚀
 
-As a student, I've worked on a number of projects related to AI and technology. Some of my notable projects include:
-
-- A machine learning model for predicting stock prices using historical data 📈
-- An image recognition system for identifying different types of fruits and vegetables 🍎🍇🥦
-- A chatbot for customer service in the retail industry 💬
+As a student, I've worked on a number of projects related to AI and technology that you can check on my profile.
 
 I'm always looking for new projects to work on and collaborate with others, so feel free to reach out if you have any ideas! 🤝
 
