@@ -1,6 +1,6 @@
 # Maxime Owaller 👋
 
-Hello! I'm Maxime Owaller, a 4th-year student at the University of Kent pursuing an MSc in Artificial Intelligence 🤖. I am also following the Master course at Epitech 💻, and I'm currently based in Strasbourg 🇫🇷 and Canterbury 🇬🇧.
+Hello! I'm Maxime Owaller, a 5th-year IT student at Epitech Technology Pariq pursuing a Master in IT 🤖. I am also graduated MSc from University of Kent and Bachelor's degree from Epitech 💻, and I'm currently based in Lyon, Colmar and Paris 🇫🇷
 
 ## About Me 🧐
 
